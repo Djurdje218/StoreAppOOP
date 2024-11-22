@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\images\\graphic.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:images\\graphic.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|c:\\users\\djurd\\source\\repos\\storeappfinal\\storeapp\\storeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59850685-4339-4121-A1A3-F248C62A15F0}|StoreApp.csproj|solutionrelative:storeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\obj\\Debug\\net8.0-windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\Infrastructure\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\Repositories\\FileStoreRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\Infrastructure\\IStoreRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\Infrastructure\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\Services\\StoreService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\Repositories\\FileProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\Entities\\Store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\DTO\\StoreDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\DAL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\Infrastructure\\IStoreService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\DTO\\ProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\AutoMapper\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\DAL\\DAL.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djurd\\source\\repos\\BLL\\BLL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:52:38.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graphic.jpg",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\images\\graphic.jpg",
+              "RelativeDocumentMoniker": "images\\graphic.jpg",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\images\\graphic.jpg",
+              "RelativeToolTip": "images\\graphic.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-22T11:05:08.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T20:00:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\Infrastructure\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\Infrastructure\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\Infrastructure\\IProductRepository.cs",
+              "RelativeToolTip": "..\\..\\DAL\\Infrastructure\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:05:49.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\Repositories\\FileStoreRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\Repositories\\FileStoreRepository.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\Repositories\\FileStoreRepository.cs",
+              "RelativeToolTip": "..\\..\\DAL\\Repositories\\FileStoreRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:08:01.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwJ8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:00:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\Infrastructure\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\Infrastructure\\IStoreRepository.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\Infrastructure\\IStoreRepository.cs",
+              "RelativeToolTip": "..\\..\\DAL\\Infrastructure\\IStoreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:06:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\Infrastructure\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\Infrastructure\\IProductService.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\Infrastructure\\IProductService.cs",
+              "RelativeToolTip": "..\\..\\BLL\\Infrastructure\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:09:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\Services\\StoreService.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\Services\\StoreService.cs",
+              "RelativeToolTip": "..\\..\\BLL\\Services\\StoreService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:28:50.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T11:52:37.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\Repositories\\FileProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\Repositories\\FileProductRepository.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\Repositories\\FileProductRepository.cs",
+              "RelativeToolTip": "..\\..\\DAL\\Repositories\\FileProductRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADgv3AAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:29:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwHkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:29:00.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:12:33.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\Entities\\Store.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\Entities\\Store.cs",
+              "RelativeToolTip": "..\\..\\DAL\\Entities\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:33:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\DTO\\StoreDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\DTO\\StoreDto.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\DTO\\StoreDto.cs",
+              "RelativeToolTip": "..\\..\\BLL\\DTO\\StoreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:55:57.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\DAL.csproj",
+              "RelativeToolTip": "..\\..\\DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T08:19:34.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\..\\DAL\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:34:39.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\Infrastructure\\IStoreService.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\Infrastructure\\IStoreService.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\Infrastructure\\IStoreService.cs",
+              "RelativeToolTip": "..\\..\\BLL\\Infrastructure\\IStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:34:51.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\App.g.i.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:54:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\djurd\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:34:25.453Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\djurd\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAWwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:57:52.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "..\\..\\BLL\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:00:57.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\BLL\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:05:13.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreApp.csproj",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\StoreApp.csproj",
+              "RelativeDocumentMoniker": "StoreApp.csproj",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\StoreAppFinal\\StoreApp\\StoreApp.csproj",
+              "RelativeToolTip": "StoreApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T11:52:33.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\DAL\\DAL.csproj",
+              "RelativeToolTip": "..\\..\\DAL\\DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T14:36:48.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\djurd\\source\\repos\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "..\\..\\BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\djurd\\source\\repos\\BLL\\BLL.csproj",
+              "RelativeToolTip": "..\\..\\BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T08:19:34.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
